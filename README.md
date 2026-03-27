@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Essa</h1>
-<h3 align="center">Senior year BS(AI) student @ GIKI</h3>
+<h3 align="center">Full Stack Dev & ML/DL Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abselon&label=Profile%20views&color=0e75b6&style=flat" alt="abselon" /> </p>
 
